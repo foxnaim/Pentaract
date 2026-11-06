@@ -1,3 +1,8 @@
+> **foxnaim** · Безлимитное облачное хранилище файлов на основе Telegram API
+>
+> Готовая основа под клиентский проект. Стек: Rust.
+> Лицензия MIT сохранена, история коммитов и авторы оригинального проекта сохранены.
+
 ![pentaract-github-logo](https://github.com/Dominux/Pentaract/assets/55978340/db39e76f-4119-41c1-bbfd-9b59f40ab626)
 
 [<img alt="GitHub Workflow Status (with event)" src="https://img.shields.io/github/actions/workflow/status/Dominux/Pentaract/docker-image.yml?style=plastic&logo=github">](https://github.com/Dominux/Pentaract/actions)
